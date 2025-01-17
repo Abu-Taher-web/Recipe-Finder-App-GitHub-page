@@ -51,7 +51,7 @@ The demo video showcases the following functionalities:
 
 <div align="center">  
   <a href="https://youtu.be/t072AGryPq8">  
-    <img src="https://img.youtube.com/vi/t072AGryPq8/0.jpg" alt="Watch the video" />  
+    <img src="img/Youtube_thumbnail.png" alt="Watch the video" />  
   </a>  
  <p>
   Click the image or [here](https://youtu.be/t072AGryPq8) to watch the video demonstration. 
@@ -73,6 +73,12 @@ The demo video showcases the following functionalities:
   - Utilizes Webpack for bundling dependencies and managing modules.
   - Supports modern JavaScript through Babel.
 
+<div align="center">  
+<img src="img/Full_View_UI.png" alt="Watch the video" width="700"/>  
+ <p>
+  <i>Figure-1:</i> Full view of the UI with all features
+ </p>
+</div> 
 ---
 
 
